@@ -10,8 +10,7 @@
 
 ### 你的名字
 
-你想说的话, 例如 "这是一个平平无奇的 Pull Request".
+kob
 
-### OrangeX5
+### kob2002
 
-我绝对不是 OrangeX4 的小号.
