@@ -4,15 +4,15 @@ on:
   workflow_dispatch:
     
 jobs:
-  level2:
-    name: advance upstream level2
+  level-2:
+    name: advance upstream level-2
     runs-on:
       ubuntu-latest
     steps:
       - name: checkout
         uses: actions/checkout@v2
         with:
-          ref: level2
+          ref: level-2
       - name: set up python
         uses: actions/setup-python@v2
         with: 
@@ -22,21 +22,21 @@ jobs:
           python .update_readme.py "`date`"
       - name: commit and push
         run: |-
-          git config --global user.email "typoverflow@outlook.com"
-          git config --global user.name "typoverflow-bot"
+          git config --global user.email "318383724@qq.com"
+          git config --global user.name "orangex4-bot"
           git add -A
           git commit -m ":robot:: Add a new commit" || exit 0
-          git push origin level2
+          git push origin level-2
 
-  level3: 
-    name: advance upstream level3
+  level-3: 
+    name: advance upstream level-3
     runs-on:
       ubuntu-latest
     steps:
       - name: checkout
         uses: actions/checkout@v2
         with:
-          ref: level3
+          ref: level-3
       - name: set up python
         uses: actions/setup-python@v2
         with: 
@@ -46,9 +46,9 @@ jobs:
           python .update_readme.py
       - name: commit and push
         run: |-
-          git config --global user.email "typoverflow@outlook.com"
-          git config --global user.name "typoverflow-bot"
+          git config --global user.email "318483724@qq.com"
+          git config --global user.name "orangex4-bot"
           git add -A
           git commit -m ":robot:: Add a new commit" || exit 0
-          git push origin level3
+          git push origin level-3
 
