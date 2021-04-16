@@ -25,7 +25,7 @@
 <!-- BEGIN:TAG -->
 ---
 
-最新的提交者：
+最新的提交者： :robot: GitHub Robot
 
 ---
 <!-- END:TAG -->
