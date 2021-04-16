@@ -2,6 +2,8 @@
 
 这个教程分为三个关卡，你可以在分支那里看见不同的 level 关卡。
 
+**(不同关卡的想法和代码实现来自 [@typoverflow](https://github.com/typoverflow/First-Pull-Requests))**
+
 你可以看这个教程：[GitHub 简易教程](https://orangex4.cool/post/github-tutorials-for-beginner/)
 
 我们把`OrangeX4/First-Pull-Requests`叫做“上游分支”，当你执行fork操作后，你的github中会产生一个名为`你的名字/First-Pull-Requests`的仓库。
