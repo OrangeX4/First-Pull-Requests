@@ -1,10 +1,23 @@
-# First Pull Requests
+# Level 1: Your First Pull Requests
 
-这个代码仓库用于 [GitHub 简易指南](https://github.com/OrangeX4/GitHub-Tutorials) 中的 Pull Requests 实践.
+这个教程分为三个关卡，你可以在分支那里看见不同的 level 关卡。
 
-你可以 Fork 这个 Repo, 按以下格式发送你的 Pull Request.
+你可以看这个教程：[GitHub 简易教程](https://orangex4.cool/post/github-tutorials-for-beginner/)
 
-详细教程请看 [GitHub 简易指南](https://github.com/OrangeX4/GitHub-Tutorials).
+我们把`OrangeX4/First-Pull-Requests`叫做“上游分支”，当你执行fork操作后，你的github中会产生一个名为`你的名字/First-Pull-Requests`的仓库。
+
+你可以通过 Pull Request 来对这个仓库进行修改。
+
+具体而言，你需要
++ 在底下的评论区留下你的评论，形式为
+  ```markdown
+  ### 你的名字
+  
+  想说的话
+  ```
++ 将合并后的改动提交到`你的用户名/First-Pull-Requests`
++ 向`OrangeX4`发出PR
+
 
 ## 评论区
 
