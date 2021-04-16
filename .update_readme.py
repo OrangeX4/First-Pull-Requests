@@ -7,7 +7,7 @@ r = re.compile(
     re.DOTALL
 )
 
-chunk = "<!-- BEGIN:TAG -->\n{}\n<!-- END:TAG -->".format(sys.argv[1])
+chunk = "<!-- BEGIN:TAG -->\n{}\n<!-- END:TAG -->".format("---\n\n最新的提交者： :robot: GitHub Robot\n\n---")
 
 root = pathlib.Path(__file__).parent.resolve()
 readme = root/"README.md"
