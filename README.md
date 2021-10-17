@@ -32,7 +32,6 @@
 ---
 
 最新的提交者： :robot: GitHub Robot
-              lufei
 
 ---
 <!-- END:TAG -->
