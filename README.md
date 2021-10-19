@@ -51,15 +51,6 @@ No comment
 
 惶恐不安地评论
 
-### FullerChch
-
-惶恐不安地评论
-
-
-### FullerChch
-
-惶恐不安地评论
-
 ### haha
 
 大家好
