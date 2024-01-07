@@ -35,7 +35,7 @@
 <!-- BEGIN:TAG -->
 ---
 
-最新的提交者： ZZ29
+最新的提交者： :robot: GitHub Robot
 
 ---
 <!-- END:TAG -->
