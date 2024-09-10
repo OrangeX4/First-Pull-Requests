@@ -119,3 +119,5 @@ nice
 ### Otalent
 
 20240110
+
+roy is learning git ! come on 
